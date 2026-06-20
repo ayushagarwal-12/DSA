@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ayushagarwal-12/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ayushagarwal-12/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ayushagarwal-12/DSA/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/ayushagarwal-12/DSA/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ayushagarwal-12/DSA/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/ayushagarwal-12/DSA/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -100,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ayushagarwal-12/DSA/tree/master/0316-remove-duplicate-letters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ayushagarwal-12/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ayushagarwal-12/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
