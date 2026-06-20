@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/ayushagarwal-12/DSA/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/ayushagarwal-12/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ayushagarwal-12/DSA/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/ayushagarwal-12/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0412-fizz-buzz](https://github.com/ayushagarwal-12/DSA/tree/master/0412-fizz-buzz) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushagarwal-12/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/ayushagarwal-12/DSA/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/ayushagarwal-12/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/ayushagarwal-12/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ayushagarwal-12/DSA/tree/master/0283-move-zeroes) |
 ## Hash Table
