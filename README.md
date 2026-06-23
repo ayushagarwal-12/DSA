@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ayushagarwal-12/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ayushagarwal-12/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ayushagarwal-12/DSA/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/ayushagarwal-12/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ayushagarwal-12/DSA/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/ayushagarwal-12/DSA/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/ayushagarwal-12/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ayushagarwal-12/DSA/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/ayushagarwal-12/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Sorting
 |  |
